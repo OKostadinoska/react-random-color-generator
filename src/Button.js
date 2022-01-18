@@ -24,8 +24,10 @@ function Button() {
         }}
       >
         {/* Show state variable value on page */}
-        <div className="App-header">
-          <p>Generated Color: background color hex code</p>
+        <div
+          className="App-header"
+          text="Generated Color: <background color hex code>"
+        >
           {hex}
         </div>
         {/* Update state variable */}
