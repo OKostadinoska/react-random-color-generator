@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# React Random Color Generator - Simple 😊
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Start program
 
 In the project directory, you can run:
 
@@ -11,5 +9,11 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Program output in the browser
+
+By clicking on the button - Generate the user can randomly change the background color:
+
+![random-react](https://user-images.githubusercontent.com/90897068/149931939-f19f5bb6-e288-4d79-81ab-5de16ec8dbb3.png)
+
+
+
