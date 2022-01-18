@@ -25,7 +25,7 @@ function Button() {
       >
         {/* Show state variable value on page */}
         <div className="App-header">
-          Generated color: background color {hex}
+          Generated color: background color {hex} code
         </div>
         {/* Update state variable */}
         <button className="generateButton" onClick={randomizedHex}>
