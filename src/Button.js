@@ -7,8 +7,16 @@ import React, { useState } from 'react';
 function Button() {
   // Create a useState variable with a String value
   const [hex, setHex] = useState('#78d3d2');
+
+  // Statement function
+  // function randomizedHex(tone) {
+  //   const color = randomColor({ hue: tone });
+  //   setHex(color);
+  // }
+
+  // Arrow function
   // Connect the setHex to the color
-  const randomizedHex = function (tone) {
+  const randomizedHex = (tone) => {
     const color = randomColor({ hue: tone });
     setHex(color);
   };
@@ -20,7 +28,6 @@ function Button() {
         className="App"
         style={{
           backgroundColor: hex,
-          zoom: 2,
         }}
       >
         {/* Show state variable value on page */}

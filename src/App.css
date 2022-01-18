@@ -1,11 +1,11 @@
 .App {
-  height: 10vh;
-  width: 50vh;
+  height: 20vh;
+  width: 80vh;
   display: grid;
   place-items: center;
   position: absolute;
-  border-radius: 0.2rem;
-  font-size: 1rem;
+  border-radius: 0.4rem;
+  font-size: 2rem;
   top: 30%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
@@ -14,7 +14,10 @@
 }
 
 .generateButton {
-  border-radius: 0.2rem;
+  height: 7vh;
+  width: 20vh;
+  font-size: 1rem;
+  border-radius: 0.5rem;
   margin: 0;
   position: absolute;
   top: 50%;
