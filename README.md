@@ -13,7 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 By clicking on the button - Generate the user can randomly change the background color:
 
-![random-react](https://user-images.githubusercontent.com/90897068/149931939-f19f5bb6-e288-4d79-81ab-5de16ec8dbb3.png)
+![random-react](https://user-images.githubusercontent.com/90897068/149965699-14dca2d7-e06d-4141-b2ed-dc93e0fc6375.png)
+
 
 
 
