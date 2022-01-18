@@ -1,17 +1,8 @@
 .App {
-  height: 50vh;
+  height: 10vh;
   display: grid;
   place-items: center;
   transition: background-color 2s;
-}
-
-.App-header {
-  background: rgb(241, 234, 234);
-  padding: 1rem 20rem;
-  margin: 0rem;
-  border-radius: 3rem;
-  text-align: center;
-  font-size: 1rem;
 }
 
 .generateButton {
